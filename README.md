@@ -13,7 +13,7 @@ This program conducts an experiment comparing the outputs (\(u(t)\)) of the clas
 
 ### Prerequisites
 1. Install Visual Studio Code (freeware).
-2. Install a compiler (GCC/G++ recommended).
+2. Install a compiler (GCC/C++ recommended).
 3. Install MATLAB.
 
 ### Files
